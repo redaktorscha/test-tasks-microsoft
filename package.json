@@ -1,0 +1,11 @@
+{
+  "name": "tests_micr",
+  "version": "1.0.0",
+  "description": "my response to 'https://medium.com/javascript-in-plain-english/microsoft-online-assessment-questions-js-f68ecdb6e927'",
+  "main": "01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
